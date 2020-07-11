@@ -1,0 +1,107 @@
+h1 {
+    color: rgb(242, 242, 243);
+    text-align: left;
+    font-size: 30px;
+    height: 80px;
+    padding-top: 10px;
+    padding-left: 80px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+}
+h2 {
+    color:rgb(5, 9, 201) ;
+    background-color: rgb(194, 55, 13);
+    text-align: center;
+    padding: 10px;
+    font-size: x-large;
+}
+h3 {
+    text-align: center;
+    color: snow;
+    height: 80px;
+    padding-top: 20px;
+    
+}
+p {
+    text-align: center;  
+    font-size: larger;
+    color: snow;
+}
+
+.parent{
+    display: flex;
+    justify-content: space-around;
+   
+}
+    
+.child1{
+    width: 200px;
+    font-size: larger;
+    height: 200px;
+    background: grey;
+    color: rgb(69, 69, 170);
+
+}
+    
+.child2{
+    width: 200px;
+    font-size: larger;
+    height: 200px;
+    background: grey;
+    color: rgb(69, 69, 170);
+}
+.child3{
+    width: 200px;
+    font-size: larger;
+    height: 200px;
+    background: grey;
+    color: rgb(69, 69, 170);
+}
+.img-mas {
+    width: 300px;
+    padding-top: 80px;
+    top: 0;
+    left: 0;
+    border-radius: 50%;
+               
+        
+    } 
+    
+    body{
+        background-image: url("img- Background.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        color: snow;
+        font-family: Poppins;
+        
+    
+    }
+    .content-skill {
+        display: flex;
+        justify-content: space-around;
+    }
+       .para1 {
+        width: 200px;
+        font-size: larger;
+        height: 50;
+        background: grey;
+        color:  rgb(194, 55, 13);
+
+       } 
+       .para2{
+        width: 200px;
+        font-size: larger;
+        height: 200px;
+        background: grey;
+        color: rgb(69, 69, 170);
+        
+       }
+
+
+    
